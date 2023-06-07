@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EsatGokcen
+- 👀 I’m interested in learning how coding works 
+- 🌱 I’m currently learning Object Oriented Programming 
+- 💞️ I’m looking to collaborate on beginner content for now :) 
+- 📫 How to reach me @esatgokcen on Instagram or esatgokcen173@gmail.com 
